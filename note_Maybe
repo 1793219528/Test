@@ -1,0 +1,14 @@
+●A generative model G that captures the data distribution, **
+and a discriminative model D that estimates
+the probability that a sample came from the training data rather than G.
+The training procedure for G is to maximize the probability of D making a mistake. 
+
+●The discriminator receives a sample, but it is not told where the sample comes from. 
+Its job is to predict whether it is a data sample or a synthetic sample.
+
+●Spatio-temporal prediction oriented to big data is mainly to build a prediction model based on 
+the characteristics of spatio-temporal objects to predict the behavior or state of spatio-temporal objects 
+in a specific spatial location in a specific time range in the future.
+
+●Spatiotemporal big data has a variety of data, which are of different qualities, 
+and needs to be combined to learn and predict.
